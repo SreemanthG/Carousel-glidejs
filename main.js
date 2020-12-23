@@ -3,7 +3,7 @@ var glide = new Glide('#intro', {
     perView: 2,
     focusAt: 'center',
     gap:300,
-
+    autoplay: 2000,
     breakpoints: {
       1200: {
         perView: 1,
